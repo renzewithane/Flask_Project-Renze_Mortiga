@@ -33,11 +33,17 @@ Ensure you have the following project structure:
 
 flask_project/
 ├── app/
+
 │ ├── init.py
+
 │ ├── routes.py
+
 ├── venv/
+
 ├── app.py
+
 ├── requirements.txt
+
 └── README.md
 
 ### Steps to Set Up the Project
